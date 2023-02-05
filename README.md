@@ -1,1 +1,2 @@
 # odin-recipes
+My first html project, creating a index page allowing links to separate pages detailing different recipes. It was fun to have a sense of both creative freedom and an understanding of functionality. 
